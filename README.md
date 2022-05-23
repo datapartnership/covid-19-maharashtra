@@ -14,4 +14,4 @@ Maharashtra, one of India’s wealthiest and most populous states, was among the
 1. Overview of all steps undertaken oulined in 'notes_on_analyis.docx'.
 2. All other files uploaded are referenced and explained in 'notes_on_analyis.docx' as well.
 
-If you have any questions, please reach out to Harsh Pachisia at: hvpachisia@gmail.com. 
+If you have any questions, please reach out to Harsh Vardhan Pachisia at: hvpachisia@gmail.com. 
