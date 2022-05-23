@@ -1,6 +1,7 @@
 # maharashtra_covid19
 
 ## Understanding societal responses to policies undertaken during emergencies: Lessons from COVID-19's Second Wave in Maharashtra
+
 by **Harsh Vardhan Pachisia**
 
 **Abstract**
