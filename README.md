@@ -3,6 +3,7 @@
 ## Understanding societal responses to policies undertaken during emergencies: Lessons from COVID-19's Second Wave in Maharashtra
 
 Link to published article: https://datapartnership.org/updates/lessons-from-covid-19-second-wave-in-maharashtra/
+
 Link to Working Paper: https://bit.ly/3Tb2Y4p
 
 ### Abstract
