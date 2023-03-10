@@ -1,0 +1,30 @@
+# Book settings
+title:
+author: Harsh Vardhan Pachisia
+copyright: ""
+logo: docs/images/logo.png
+only_build_toc_files: true
+
+repository:
+  url: https://github.com/datapartnership/covid-19-maharashtra
+  branch: main
+
+#######################################################################################
+# HTML-specific settings
+html:
+  home_page_in_navbar: false
+  extra_navbar: ""
+  use_edit_page_button: true
+  use_repository_button: true
+  use_issues_button: true
+  baseurl: https://github.com/datapartnership/covid-19-maharashtra
+  extra_footer: |
+    <div>
+        <b>All content (unless otherwise specified) is subject to the <a href="https://raw.githubusercontent.com/worldbank/template/main/LICENSE">World Bank Master Community License Agreement.</a></b>
+    </div>
+
+#######################################################################################
+# Sphinx settings
+sphinx:
+  config:
+    html_last_updated_fmt: "%b %d, %Y"

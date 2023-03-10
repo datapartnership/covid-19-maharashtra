@@ -1,0 +1,15 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: COVID-19's Second Wave in Maharashtra
+    chapters:
+      - url: https://bit.ly/3dJf1FT
+        title: Blog Post
+      - url: https://bit.ly/3Tb2Y4p
+        title: Working Paper
+
+  - caption: Additional Resources
+    chapters:
+      - url: https://datapartnership.org
+        title: Development Data Partnership
